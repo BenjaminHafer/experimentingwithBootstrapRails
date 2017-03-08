@@ -3,6 +3,8 @@ class CreateVisitors < ActiveRecord::Migration[5.0]
     create_table :visitors do |t|
 
       t.timestamps
+
+
     end
   end
 end
