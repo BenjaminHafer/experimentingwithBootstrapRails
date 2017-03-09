@@ -1,0 +1,15 @@
+<% content_for :title do %>Results <% end %>
+<% @visitors = Visitor.all %>
+
+<table class="table-striped table-bordered table-responsive">
+  <tr>
+    <th class="table ">Favorite Destinations:</th>
+  </tr>
+
+<% @visitors.each do |visitor| %>
+  <tr>
+    <td><%= visitor.favorite %> </td>
+  </tr>
+
+<% end %>
+</table>
