@@ -3,12 +3,14 @@
 
 <table class="table-striped table-bordered table-responsive">
   <tr>
-    <th class="table ">Favorite Destinations:</th>
+    <th>Favorite Destinations:</th>
+    <th>Comments: </th>
   </tr>
 
 <% @visitors.each do |visitor| %>
   <tr>
-    <td><%= visitor.favorite %> </td>
+    <td><%= visitor.favorite %></td>
+    <td><%= visitor.comment %></td>
   </tr>
 
 <% end %>
