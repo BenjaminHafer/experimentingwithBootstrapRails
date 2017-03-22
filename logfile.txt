@@ -1,0 +1,119 @@
+commit 6840998b44b6d2779d59c9d45ac2ecd8c14b9e71
+Author: Benjamin Hafer <bchafer.bch@gmail.com>
+Date:   Wed Mar 8 21:48:59 2017 -0500
+
+    zz
+
+commit 7967aa5994f2a18b6c26e103143aea7a5c7d1e5b
+Author: Benjamin Hafer <bchafer.bch@gmail.com>
+Date:   Wed Mar 8 21:37:26 2017 -0500
+
+    added extra picture
+
+commit 6cc5a3b23656c9f83a9a2d80dcf922daaef71104
+Author: Benjamin Hafer <bchafer.bch@gmail.com>
+Date:   Wed Mar 8 21:23:46 2017 -0500
+
+    fixed choose button
+
+commit 4dd2e2e50ed403e2d238ed9f3f24caab0d301a37
+Author: Benjamin Hafer <bchafer.bch@gmail.com>
+Date:   Wed Mar 8 21:18:13 2017 -0500
+
+    pushed to heroku successfully
+
+commit c12d67c9842a3911947436b8f1495a100c66ce00
+Author: Benjamin Hafer <bchafer.bch@gmail.com>
+Date:   Wed Mar 8 21:09:22 2017 -0500
+
+    switch to master
+
+commit 312297648909028b382d1e0d42b7d008f84296de
+Author: Benjamin Hafer <bchafer.bch@gmail.com>
+Date:   Wed Mar 8 21:06:33 2017 -0500
+
+    added dev rules 4
+
+commit b1d91f5c258c53d5d4192915db77ec4a0bcfae6a
+Author: Benjamin Hafer <bchafer.bch@gmail.com>
+Date:   Wed Mar 8 21:01:44 2017 -0500
+
+    added dev rules 3
+
+commit b237d8e44fce64b881108407d770e54859d10311
+Author: Benjamin Hafer <bchafer.bch@gmail.com>
+Date:   Wed Mar 8 20:59:05 2017 -0500
+
+    added dev rules 2
+
+commit f77fba80e1f0aab98c12527209b3d5f29f20d1c1
+Author: Benjamin Hafer <bchafer.bch@gmail.com>
+Date:   Wed Mar 8 20:54:16 2017 -0500
+
+    added production rules
+
+commit f359c7584958f6905bcd8b1036fdbe76ba07cad7
+Author: Benjamin Hafer <bchafer.bch@gmail.com>
+Date:   Wed Mar 8 20:47:42 2017 -0500
+
+    trying to push again
+
+commit 94f5f6444f3cc5b47b52ca8ac781512a91835f3b
+Author: Benjamin Hafer <bchafer.bch@gmail.com>
+Date:   Wed Mar 8 20:35:31 2017 -0500
+
+    pushing to git
+
+commit 68d05dc4fba7807dcac4b1fbbdb5a23be837a2a9
+Author: Benjamin Hafer <bchafer.bch@gmail.com>
+Date:   Wed Mar 8 20:29:24 2017 -0500
+
+    finished modal  aka chap 19
+
+commit d0bd1ec3999b583e99f1d919fa7423b880051986
+Author: Benjamin Hafer <bchafer.bch@gmail.com>
+Date:   Wed Mar 8 19:25:02 2017 -0500
+
+    just finished 2.10  adding the results page, starting on 2.11 chap 19
+
+commit 99cd92f2dd64f74e766d9b8144d222b0505738d6
+Author: Benjamin Hafer <bchafer.bch@gmail.com>
+Date:   Wed Mar 8 17:28:12 2017 -0500
+
+    completed 2.9, beginning 2.10
+
+commit 14b749f1a118c4dfd31b0a032d20cff4f25bd34e
+Author: Benjamin Hafer <bchafer.bch@gmail.com>
+Date:   Wed Mar 8 17:18:34 2017 -0500
+
+    completed the carousel activity, starting 2.9
+
+commit 7318eb695470f45cf6327921140bafba3df635d7
+Author: Benjamin Hafer <bchafer.bch@gmail.com>
+Date:   Wed Mar 8 17:13:34 2017 -0500
+
+    added second page about, beginning 2.8 Carousel
+
+commit 141d9e4b832f866584756a6ced2de03139b0a0c5
+Author: Benjamin Hafer <bchafer.bch@gmail.com>
+Date:   Tue Mar 7 10:32:03 2017 -0500
+
+    finished chapter 11, reading around in chapters 12 and 13
+
+commit 46f41c0f8b8e84cd820888fc759953e1e095908e
+Author: Benjamin Hafer <bchafer.bch@gmail.com>
+Date:   Tue Mar 7 10:03:37 2017 -0500
+
+    generated visitor scaffold. db:migrate, set home
+
+commit 0c9cea838bab6cd65d2a674011d28856aed4dbb3
+Author: Benjamin Hafer <bchafer.bch@gmail.com>
+Date:   Tue Mar 7 09:58:44 2017 -0500
+
+    created the visitors_controller
+
+commit aebd51732ac0066d3986f74590e7e2a63b07cac9
+Author: Benjamin Hafer <bchafer.bch@gmail.com>
+Date:   Tue Mar 7 09:52:26 2017 -0500
+
+    created project imported gems
